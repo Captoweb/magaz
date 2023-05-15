@@ -1,0 +1,112 @@
+[
+
+    {
+        "id_goods":1,
+        "name":"Хомут ремонтный 1/2 (Ø15)",
+        "description":"оцинкованный на 2 болта",
+        "price":35,
+        "id_cat":"clamp",
+        "img": "../../images/radio_1.jpg"
+    },
+    
+    {
+        "id_goods":2,
+        "name":"Хомут ремонтный 3/4 (Ø20)",
+        "description":"оцинкованный на 2 болта",
+        "price":36,
+        "id_cat":"clamp",
+        "img": "../../images/radio_2.jpg"
+    },
+
+    {
+        "id_goods":3,
+        "name":"Хомут ремонтный 1 дюйм (Ø25)",
+        "description":"оцинкованный на 2 болта",
+        "price":37,
+        "id_cat":"clamp",
+        "img": "../../images/radio_3.jpg"
+    },
+    
+    {
+        "id_goods":4,
+        "name":"Хомут ремонтный 1 дюйм 1/4 (Ø32)",
+        "description":"оцинкованный на 2 болта",
+        "price":38,
+        "id_cat":"clamp",
+        "img": "../../images/radio_4.jpg"
+    },
+
+    {
+        "id_goods":5,
+        "name":"Хомут ремонтный 1 дюйм 1/2 (Ø40)",
+        "description":"оцинкованный на 2 болта",
+        "price":45,
+        "id_cat":"clamp",
+        "img": "../../images/radio_5.jpg"
+    },
+    
+    {
+        "id_goods":6,
+        "name":"Хомут ремонтный 2 дюйма (Ø50)",
+        "description":"оцинкованный на 2 болта",
+        "price":45,
+        "id_cat":"clamp",
+        "img": "../../images/radio_6.jpg"
+    },
+
+    {
+        "id_goods":7,
+        "name":"Хомут ремонтный 1/2 (Ø15)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/radio_7.jpg"
+    },
+    
+    {
+        "id_goods":8,
+        "name":"Хомут ремонтный 3/4 (Ø20)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/radio_8.jpg"
+    },
+
+    
+    {
+        "id_goods":9,
+        "name":"Хомут ремонтный 1 дюйм (Ø25)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/radio_9.jpg"
+    },
+    
+    {
+        "id_goods":10,
+        "name":"Хомут ремонтный 1 дюйм 1/4 (Ø32)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/radio_10.jpg"
+    },
+
+    {
+        "id_goods":11,
+        "name":"Хомут ремонтный 1 дюйм 1/2 (Ø40)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/radio_11.jpg"
+    },
+    
+    {
+        "id_goods":12,
+        "name":"Хомут ремонтный 2 дюйма (Ø50)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/radio_12.jpg"
+    }
+
+]
